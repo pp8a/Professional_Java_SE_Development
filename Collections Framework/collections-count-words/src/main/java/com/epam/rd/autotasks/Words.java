@@ -1,8 +1,5 @@
 package com.epam.rd.autotasks;
 
-
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -46,7 +43,7 @@ public class Words {
     	StringBuilder builder = new StringBuilder();    	
     	boolean count = false;//for set "\n" if have still word corresponding to the condition
     	for (Iterator<Entry<String, Integer>> iterator = list.iterator(); iterator.hasNext();) {
-			Entry<String, Integer> entry = (Entry<String, Integer>) iterator.next();
+			Entry<String, Integer> entry = iterator.next();
 			
 			if(entry.getValue() > 9 && count) {
 				builder.append("\n");

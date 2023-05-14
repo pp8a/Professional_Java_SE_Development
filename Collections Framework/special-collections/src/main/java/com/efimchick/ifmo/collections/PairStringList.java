@@ -6,13 +6,6 @@ import java.util.Iterator;
 import java.util.List;
 
 class PairStringList extends ArrayList<String>  {
-//	private List<String> list;
-//
-//	public PairStringList(List<String> list) {
-//		super();
-//		this.list = new ArrayList<>();
-//	}
-
 	/**
 	 * 
 	 */

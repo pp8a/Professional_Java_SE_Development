@@ -8,6 +8,7 @@
 2. [Special Collections](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/special-collections)
 ## [Functional Programming with Java Introduction](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming)
 1. [Streams: Count Words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-count-words)
+2. Streams: Pipelines
 ## I/O Streams and NIO.2 API in Java programs
 ## Java Concurrency Essentials
 ## JVM Memory Management

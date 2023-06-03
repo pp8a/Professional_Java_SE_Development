@@ -7,6 +7,7 @@
 1. [Collections. Count words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/collections-count-words)
 2. [Special Collections](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/special-collections)
 ## Functional Programming with Java Introduction
+1. [Streams: Count Words](1)
 ## I/O Streams and NIO.2 API in Java programs
 ## Java Concurrency Essentials
 ## JVM Memory Management

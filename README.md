@@ -16,3 +16,5 @@
 2. Concurrent Tic-Tac-Toe
 3. Wallet
 ## JVM Memory Management
+1. Stack-Heap Diagram
+2. Load Test (Optional)

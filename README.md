@@ -3,6 +3,17 @@
 1. [FloodFill](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Data_Structures_%26_Algorithms/flood-fill)
 2. [BST Pretty Print](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Data_Structures_%26_Algorithms/bst-pretty-print)
 3. [Hashtable Open 8-16 (Optional)](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Data_Structures_%26_Algorithms/hashtable-open-8-16)
+## Java Lambdas and Streams
+1. Exercise 1 "Throwing a Function "
+2. Exercise 2 "Tri-Function"
+3. Exercise 3 "Percentage Formatter"
+4. Exercise 4 "Int Array Reducer"
+5. Exercise 5 "Kamino Clone Factory"
+6. Exercise 6 "Radian Comparator"
+7. Exercise 7 "Contacts Comparators"
+8. Exercise 8 "Area Checker"
+9. Exercise 9 "Insurance calculator"
+10. Exercise 10 "Text Statistics"
 ## [Collections Framework](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework)
 1. Collections. [Count words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/collections-count-words)
 2. [Special Collections](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/special-collections)

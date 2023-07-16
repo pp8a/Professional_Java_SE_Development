@@ -6,7 +6,7 @@
 ## [Collections Framework](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework)
 1. Collections. [Count words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/collections-count-words)
 2. [Special Collections](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/special-collections)
-## Lambda Expressions
+## [Lambda Expressions](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions)
 1. [Throwing a Function](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/throwing-function)
 2. Tri-Function
 3. Percentage Formatter

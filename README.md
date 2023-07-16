@@ -7,11 +7,11 @@
 1. Collections. [Count words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/collections-count-words)
 2. [Special Collections](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Collections%20Framework/special-collections)
 ## Lambda Expressions
-1. "Throwing a Function
-2. "Tri-Function
-3. "Percentage Formatter
-4. "Int Array Reducer
-5. "Kamino Clone Factory
+1. [Throwing a Function](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/throwing-function)
+2. Tri-Function
+3. Percentage Formatter
+4. Int Array Reducer
+5. Kamino Clone Factory
 6. Radian Comparator
 7. Contacts Comparators
 8. Area Checker

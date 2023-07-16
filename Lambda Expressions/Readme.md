@@ -1,0 +1,11 @@
+## Lambda Expressions
+1. [Throwing a Function](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/throwing-function)
+2. Tri-Function
+3. Percentage Formatter
+4. Int Array Reducer
+5. Kamino Clone Factory
+6. Radian Comparator
+7. Contacts Comparators
+8. Area Checker
+9. Insurance calculator
+10. Text Statistics

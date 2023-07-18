@@ -19,6 +19,8 @@
 10. Text Statistics
 ## Stream API
 1. Task
+2. Task
+3. Task
 ## [Functional Programming](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming) with Java Introduction
 1. Streams: [Count Words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-count-words)
 2. Streams: [Pipelines](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-pipelines)

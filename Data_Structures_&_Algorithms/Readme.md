@@ -1,4 +1,4 @@
 ## Introduction to Data Structures & Algorithms in Java
-1. [FloodFill](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Data_Structures_%26_Algorithms/flood-fill)
+1. [FloodFill](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Data_Structures_%26_Algorithms/flood-fill)<br/> ```Flood fill means that it takes initial rectangular area containing land and water cells and imitates flooding it: each flood step water cell converts neighbor land cells (up, left, right and down) to water.```
 2. [BST Pretty Print](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Data_Structures_%26_Algorithms/bst-pretty-print)<br/> ```PrintableTree is a simple Binary Search Tree with no balancing.```
 3. [Hashtable Open 8-16 (Optional)](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Data_Structures_%26_Algorithms/hashtable-open-8-16)<br/> ```There are several specifics of this hash table implementation...```

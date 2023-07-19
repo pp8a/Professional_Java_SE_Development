@@ -13,7 +13,7 @@
 4. [Int Array Reducer](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/int-array-reducer)
 5. [Kamino Clone Factory](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/kamino-clone-factory)
 6. [Radian Comparator](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/radian-comparator)
-7. Contacts Comparators
+7. [Contacts Comparators](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/contacts-comparators)
 8. Area Checker
 9. Insurance calculator
 10. Text Statistics

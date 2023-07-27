@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Optional;
 
 public final class Car implements Subject {
-
+//класс как final, мы запрещаем его наследование, то есть нельзя создать подкласс, который расширяет Car
   private String model;
   private BigInteger price;
   private LocalDate manufactureDate;

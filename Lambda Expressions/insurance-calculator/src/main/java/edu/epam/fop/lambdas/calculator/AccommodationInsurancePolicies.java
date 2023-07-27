@@ -62,7 +62,6 @@ public final class AccommodationInsurancePolicies {
 //	BigInteger coefficientValue = rentAmount.divide(divider).multiply(BigInteger.valueOf(100));
 //	int cappedCoefficient = coefficientValue.min(BigInteger.valueOf(InsuranceCoefficient.MAX.coefficient())).intValue();  
 
-
   static InsuranceCalculator<Accommodation> priceAndRoomsAndAreaDependentInsurance(BigInteger priceThreshold,
       int roomsThreshold, BigInteger areaThreshold) {
     return entity -> {

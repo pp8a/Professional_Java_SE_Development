@@ -16,11 +16,16 @@
 7. [Contacts Comparators](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/contacts-comparators)
 8. Area Checker
 9. [Insurance calculator](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/insurance-calculator)
-10. Text Statistics
+10. [Text Statistics](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/text-statistics)
 ## Stream API
-1. Task
-2. Task
-3. Task
+1. Cat Database
+2. Cat Selection
+3. Cat Shelter
+4. Cat Generator
+5. Cat Contest Analyzer
+6. Cat Contest Summary
+7. Cat Library
+8. Cat Data Processor
 ## [Functional Programming](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming) with Java Introduction
 1. Streams: [Count Words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-count-words)
 2. Streams: [Pipelines](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-pipelines)

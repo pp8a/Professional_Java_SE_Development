@@ -8,4 +8,4 @@
 7. [Contacts Comparators](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/contacts-comparators)<br /> ```The goal of this task is to practice combining multiple comparators and use some of their utility methods to build complex comparators easily.```
 8. Area Checker <br/> ```The purpose of this task is to practice with Predicate combination.```
 9. [Insurance calculator](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/insurance-calculator)<br/> ```The purpose of this task is to practice with Optional, and its main methods - map, filter, flatMap, etc.```
-10. Text Statistics
+10. [Text Statistics](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Lambda%20Expressions/text-statistics) <br/>```The purpose of this task is to practice using Map functional methods.```

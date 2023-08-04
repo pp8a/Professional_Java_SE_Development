@@ -20,8 +20,8 @@
 ## [Stream API](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API)
 1. [Cat Database](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-database)
 2. [Cat Selection](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-selection)
-3. Cat Shelter
-4. Cat Generator
+3. [Cat Shelter](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-shelter)
+4. [Cat Generator](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-generator)
 5. Cat Contest Analyzer
 6. Cat Contest Summary
 7. Cat Library

@@ -21,26 +21,39 @@ public class CatContestHelper {
     }
     
     public String getCarrierId(List<Cat> cats) {
-    	StringBuilder carrierIdBuilder = new StringBuilder("CF");
+//    	1.
+//    	StringBuilder carrierIdBuilder = new StringBuilder("CF");
+//    	
+//    	cats.stream()
+//    		.filter(cat -> cat.getName() != null && cat.getBreed() != null)
+//    		.forEach(cat ->{
+//    			carrierIdBuilder.append(cat.getName().substring(0, Math.min(cat.getName().length(), 3)));
+//    			carrierIdBuilder.append(cat.getBreed().toString().substring(0, 3));
+//    		});
+//    	
+//		return carrierIdBuilder.toString().toUpperCase();
     	
-    	cats.stream()
-    		.filter(cat -> cat.getName() != null && cat.getBreed() != null)
-    		.forEach(cat ->{
-    			carrierIdBuilder.append(cat.getName().substring(0, Math.min(cat.getName().length(), 3)));
-    			carrierIdBuilder.append(cat.getBreed().toString().substring(0, 3));
-    		});
-    	
-		return carrierIdBuilder.toString().toUpperCase();
+//		2.
 //        return "CF" + cats.stream()
 //        		.filter(cat -> cat.getName() != null && cat.getBreed() != null)
 //    			.map(cat -> cat.getName().substring(0, 3).toUpperCase() 
 //    					+ cat.getBreed().toString().substring(0, 3).toUpperCase())
 //    			.collect(Collectors.joining());
+		
+//    	3.
+		String carrierId = cats.stream()
+                .filter(cat -> cat.getName() != null && cat.getBreed() != null)
+                .map(cat -> cat.getName().substring(0, Math.min(cat.getName().length(), 3)) +
+                        cat.getBreed().toString().substring(0, 3))
+                .reduce("CF", (acc, str) -> acc + str);
+
+        return carrierId.toUpperCase();
     }
 
     public Integer countTeamAwards(List<Cat> cats) {    	
         return cats.stream()
         		.mapToInt(cat -> cat.getAwards())
-        		.sum();
+        		.reduce(Integer::sum)
+        		.orElse(0);
     }
 }

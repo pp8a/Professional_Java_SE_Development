@@ -23,7 +23,7 @@
 3. [Cat Shelter](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-shelter)
 4. [Cat Generator](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-generator)
 5. [Cat Contest Analyzer](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-analyzer)
-6. Cat Contest Summary
+6. [Cat Contest Summary](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-summary)
 7. Cat Library
 8. Cat Data Processor
 ## [Functional Programming](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming) with Java Introduction

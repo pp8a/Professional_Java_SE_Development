@@ -24,7 +24,7 @@
 4. [Cat Generator](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-generator)
 5. [Cat Contest Analyzer](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-analyzer)
 6. [Cat Contest Summary](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-summary)
-7. Cat Library
+7. [Cat Library](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-library)
 8. Cat Data Processor
 ## [Functional Programming](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming) with Java Introduction
 1. Streams: [Count Words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-count-words)

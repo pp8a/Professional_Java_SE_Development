@@ -6,3 +6,5 @@
 5. [Cat Contest Analyzer](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-analyzer) <br/> ```The purpose of this exercise is to train you to work with the short terminal operations max, min, average, findFirst, findAny, allMatch and noneMatch and review some of the operations from previous tasks.```
 6. [Cat Contest Summary](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-summary) <br/> ```The purpose of this exercise is to train you to work with the terminal operation reduce.```
 7. [Cat Library](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-library) <br/> ```The purpose of this task is to give you some practice working with the collectorstoSet_, _toMap_, _toCollection_, _groupingBy_, _mapping and _joining_.```
+8. [Cat Data Processor](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-data-processor) <br/> ```The purpose of this task is to give you some practice working with custom collectors. (1. Guava Immutable table 2. JSONArray)```
+

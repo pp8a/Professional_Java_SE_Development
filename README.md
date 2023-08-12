@@ -25,7 +25,7 @@
 5. [Cat Contest Analyzer](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-analyzer)
 6. [Cat Contest Summary](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-contest-summary)
 7. [Cat Library](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-library)
-8. Cat Data Processor
+8. [Cat Data Processor](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Stream%20API/cat-data-processor)
 ## [Functional Programming](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming) with Java Introduction
 1. Streams: [Count Words](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-count-words)
 2. Streams: [Pipelines](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Functional%20Programming/streams-pipelines)

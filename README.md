@@ -34,7 +34,7 @@
 ## Java [Concurrency Essentials](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Java%20Concurrency%20Essentials)
 1. [Thread Factoring](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Java%20Concurrency%20Essentials/thread-factoring)
 2. [Concurrent Tic-Tac-Toe](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Java%20Concurrency%20Essentials/concurrent-tic-tac-toe)
-3. Wallet
+3. [Wallet](https://github.com/pp8a/Professional_Java_SE_Development/tree/main/Java%20Concurrency%20Essentials/wallet)
 ## JVM Memory Management
 1. Stack-Heap Diagram
 2. Load Test (Optional)

@@ -7,12 +7,13 @@ import java.util.List;
 
 public class ConcurrentWallet implements Wallet {
 	private final List<Account> accounts;
-    private final PaymentLog paymentLog;
-    static Lock lock = new ReentrantLock();
+    	private final PaymentLog paymentLog;
+    	private final Lock lock;
 
 	public ConcurrentWallet(List<Account> accounts, PaymentLog paymentLog) {
-		 this.accounts = accounts;
+	     this.accounts = accounts;
 	     this.paymentLog = paymentLog;
+	     this.lock = new ReentrantLock();
 	}
 
 	@Override

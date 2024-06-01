@@ -15,7 +15,7 @@ public class TicTacToeImpl implements TicTacToe {
 		IntStream.range(0, 3)
         	.forEach(i -> Arrays.fill(board[i], WHITESPACE));
 		
-		this.lastMark = ' ';
+		this.lastMark = 'O';
 	}
 
 	@Override

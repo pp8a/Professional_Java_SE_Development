@@ -18,7 +18,6 @@ public class ConcurrentWallet implements Wallet {
 
 	@Override
 	public void pay(String recipient, long amount) throws ShortageOfMoneyException {
-
 		lock.lock();		
 		try {
 			Account selectedAccount = accounts.stream()
@@ -26,22 +25,11 @@ public class ConcurrentWallet implements Wallet {
 					.findFirst()
 					.orElseThrow(() -> new ShortageOfMoneyException(recipient, amount));
 			
-			selectedAccount.lock().lock();
-			try {
-				if(selectedAccount.balance() >= amount) {
-					selectedAccount.pay(amount);
-					paymentLog.add(selectedAccount, recipient, amount);
-				}else {
-					throw new ShortageOfMoneyException(recipient, amount);
-				}
-				
-			} finally {
-				selectedAccount.lock().unlock();
-			}
+			selectedAccount.pay(amount);
+			paymentLog.add(selectedAccount, recipient, amount);
 			
 		} finally {
 			lock.unlock();
 		}
 	}
-
 }
